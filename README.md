@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advicegeneratorapp-html-css-js-YIgb-Sqlcw)
+- Live Site URL: [Netlify](https://calm-hamster-bb136c.netlify.app/)
 
 ## My process
 
@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@coc0dev](https://www.frontendmentor.io/profile/coc0dev)
 
